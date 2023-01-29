@@ -1,1 +1,2 @@
-my second readme
+my name is Eunice Asare Ansah I love programming 
+
